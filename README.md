@@ -3,6 +3,7 @@
 - I am a Brazilian professional who recently completed a comprehensive Web Development Bootcamp at Le Wagon, and I am currently seeking my next challenging opportunity within the field.
   
 - You can reach me on my email and LinkedIn:
+  
   📫 karoline.ferr02@gmail.com
   📫 https://www.linkedin.com/in/karolineferr/
 
